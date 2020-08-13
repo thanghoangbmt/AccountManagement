@@ -51,6 +51,8 @@ public class MainController extends HttpServlet {
 
 	private void processRequest(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
+		
+		//Thang sua code trong MainController
 		String url = ERROR;
 		try {
 			String action = request.getParameter("action");
