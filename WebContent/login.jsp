@@ -20,6 +20,6 @@
 	
 	<a href="${register}">Register here</a>
 
-	<h3 style="color: red;">${ERROR_MESSAGE}</h3>
+	<h3 style="color: red;">${ERROR_MESSAGE} XH nè</h3>
 </body>
 </html>
