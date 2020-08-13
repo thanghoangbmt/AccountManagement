@@ -20,6 +20,7 @@
 	
 	<a href="${register}">Register here</a>
 
+<<<<<<< HEAD
 	<h3 style="color: red;">${ERROR_MESSAGE}</h3>
 	<h3 style="color: red;">
 		Đà Nẵng gió cứ mặn vào tôi
@@ -27,5 +28,8 @@
 		bóng núi xưa lặng yên vịnh biển
 		mây ba chiều vào phố sông xanh .
 	</h3>
+=======
+	<h3 style="color: red;">${ERROR_MESSAGE} XH n�</h3>
+>>>>>>> hong
 </body>
 </html>
