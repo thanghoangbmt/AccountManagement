@@ -21,5 +21,11 @@
 	<a href="${register}">Register here</a>
 
 	<h3 style="color: red;">${ERROR_MESSAGE}</h3>
+	<h3 style="color: red;">
+		Đà Nẵng gió cứ mặn vào tôi
+		thêm nắng lửa táp trên cát trắng
+		bóng núi xưa lặng yên vịnh biển
+		mây ba chiều vào phố sông xanh .
+	</h3>
 </body>
 </html>
